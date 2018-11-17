@@ -4,7 +4,7 @@ const companyName = 'Scuber';
 
 let mostProfitableNeighborhoodtest = 'Chelsea';
 
-let mostProfitableNeighborhoodtest = 'Upper West Side'
+// let mostProfitableNeighborhoodtest = 'Upper West Side'
 
 // function mostProfitableNeighborhood() {
 //   let mostProfitableNeighborhoodtest = 'Chelsea';
