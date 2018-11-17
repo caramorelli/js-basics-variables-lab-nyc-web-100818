@@ -5,11 +5,3 @@ const companyName = 'Scuber';
 let mostProfitableNeighborhood = 'Chelsea';
 
 var companyCeo = 'Susan Smith';
-
-// let mostProfitableNeighborhoodtest = 'Chelsea';
-
-// let mostProfitableNeighborhoodtest = 'Upper West Side'
-
-// function mostProfitableNeighborhood() {
-//   let mostProfitableNeighborhoodtest = 'Chelsea';
-// }
