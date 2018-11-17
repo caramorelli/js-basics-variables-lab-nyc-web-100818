@@ -2,7 +2,7 @@
 // let companyName = 'Scuber';
 const companyName = 'Scuber';
 
-let mostProfitableNeighborhood
+let mostProfitableNeighborhood = 'Chelsea'
 
 let mostProfitableNeighborhoodtest = 'Chelsea';
 
