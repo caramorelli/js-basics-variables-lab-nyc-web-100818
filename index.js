@@ -3,6 +3,6 @@ let companyName = 'Scuber';
 
 // let mostProfitableNeighborhoodtest = 'Chelsea';
 
-function mostProfitableNeighborhood() {
-  let mostProfitableNeighborhoodtest = 'Chelsea';
-}
+// function mostProfitableNeighborhood() {
+//   let mostProfitableNeighborhoodtest = 'Chelsea';
+// }
